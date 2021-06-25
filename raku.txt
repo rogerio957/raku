@@ -1,0 +1,1074 @@
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Premonition
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/922/566/106625D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Shanghai
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/386/894/116642D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Tmnt (Teenage Mutant Ninja Turtles)
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/697/823/118623D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Puss In Boots
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/215/227/121926D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Shrink
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/861/891/125715D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Moll Flanders
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/429/715/126309D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Middleton
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/126607D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Flypaper
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/126608D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Paranormal Activity 2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/33/460/127502D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Disaster Movie
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/492/227/128606D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The American
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/199/1022/130806D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Original Sin
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/130856D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Fly Me To The Moon
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/158/803/132036D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Legends Of Valhalla: Thor
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/985/575/132244D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Vamps
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/132266D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Super
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/749/607/132295D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Dark Tide
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/132300D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Double
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/132301D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Salvation Boulevard
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/215/227/132304D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Son Of No One
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/132306D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Ceremony
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/35/523/132316D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Furry Vengeance
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/211/614/134870D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Recipe For Disaster
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/556/871/135650D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Charlie St. Cloud
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/199/1022/136725D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Get Him To The Greek
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/129/71/136731D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Last Night
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/OldFiles/136959D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Groomsmen
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/494/582/137124D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Kick-Ass
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/664/79/137157D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Monk
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/137642D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Spiders 3d
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/272/926/137666D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Hart&apos;s War
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/921/371/137848D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Open Water
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/220/247/137962D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Devil
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/792/531/137980D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",In His Life: The John Lennon Story
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/665/583/138082D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Wuthering Heights
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/527/567/138087D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Americano
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/144/291/138274D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Atomic Train
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/504/442/138528D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Haywire
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/140040D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Get The Gringo
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/140047D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Immortals
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/140049D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Thunderbolt And Lightfoot
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/359/435/140090D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Cowboys & Aliens
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/496/983/140213D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Omen
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/19/239/140389D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Bandits
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/750/347/140562D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Vallanzasca - Gli Angeli Del Male
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/140636D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Sammy&apos;s Adventures
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/OldFiles/140947D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Resident
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/869/431/141151D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Little Fockers
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/684/427/141156D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Megamind
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/157/823/141160D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Mean Girls 2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/41/745/141169D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Secret Of Moonacre
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/143894D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Rabbit Hole
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/OldFiles/143979D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Serendipity
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/144071D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Kate & Leopold
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/144075D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Rango
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/144574D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Detachment
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/144684D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",2 Days In New York
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/983/623/144686D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Beneath The Darkness
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/216/203/144687D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Prey
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/216/203/144696D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Re-Kill
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/987/243/144723D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Last Passenger
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/872/75/144729D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Crazy People
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/984/803/144923D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Full Monty
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/145462D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Clifford
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/216/203/145690D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Green Zone
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/884/839/145870D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Numbers Station
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/684/427/145969D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Paperboy
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/649/323/145972D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Into The White
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/631/471/146151D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Pompeii
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/623/615/146209D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Tarzan 3d
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/872/75/146212D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Behind Enemy Lines
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/953/935/146824D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Kalifornia
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/854/731/147382D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Transformers: Dark Of The Moon
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/147867D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",John Carpenter&apos;s Escape From L.A.
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/345/507/148018D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Harley Davidson And The Marlboro Man
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/475/919/148062D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Death Warrant
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/216/203/148075D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Drumline
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/148107D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",All Dogs Go To Heaven 2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/148228D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Dust Factory
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/148354D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Thin Red Line
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/148415D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Seeking Justice
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/148685D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Hey Arnold! The Movie
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/148787D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",It Takes Two
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/148799D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Patience Stone
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/684/427/148846D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Mean Girls
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/41/958/148957D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Jingle All The Way
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/149214D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Little Man Tate
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/217/179/149347D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Four Weddings And A Funeral
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/217/179/149388D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",10 Years
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/149473D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Fled
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/538/663/149501D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Salvador
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/665/583/149503D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Under Siege 2: Dark Territory
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/310/415/149767D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",American Ninja 4
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/217/179/149862D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Clear And Present Danger
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/150148D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Antitrust
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/217/179/150512D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Benny & Joon
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/953/259/150519D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Man In The Iron Mask
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/217/179/150526D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Ever After: A Cinderella Story
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/150601D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",How To Train Your Dragon
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/302/115/150603D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Superhero Movie
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/456/570/150607D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Big Mommas: Like Father Like Son
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/219/82/150612D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Water For Elephants
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/39/873/150614D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Funny About Love
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/367/591/150628D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Without A Paddle
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/220/247/150633D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Clueless
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/150635D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Men Of Honor
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/39/707/150717D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Chain Reaction
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/309/439/150722D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Negotiator
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/624/183/150723D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Under Siege
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/309/439/150724D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Beach
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/150734D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Behind Enemy Lines: Colombia
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/546/115/150742D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Joy Ride 2: Dead Ahead
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/561/567/150749D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Mod Squad
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/458/523/150823D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",A Guy Thing
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/150833D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Pandorum
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/460/975/150897D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Event Horizon
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/217/179/150907D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Maladies
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/150944D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Kate Logan Affair
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/150967D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Toast
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/150978D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Breakaway
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/423/51/150983D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Seal Team Six: The Raid On Osama Bin Laden
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/150991D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Dawn Rider
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/201/611/150995D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Mr. Magorium&apos;s Wonder Emporium
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/150999D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The A-Team
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/531/523/151610D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Never Been Kissed
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/219/271/151624D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Mother&apos;s Day
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/OldFiles/151683D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Lovewrecked
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/226/787/151706D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Alive
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/151/743/151708D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Cloverfield
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/366/807/152222D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Watchmen
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/461/527/152293D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Spiderwick Chronicles
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/152530D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Me, Myself And Irene
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/152728D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Transformers: Revenge Of The Fallen
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/152735D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Star Trek
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/577/243/152737D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Birdcage
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/152773D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Species
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/215/727/152963D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Thing Called Love
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/215/727/152983D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",True Colors
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/660/51/152984D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Fargo
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/852/139/153125D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",French Kiss
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/215/727/153130D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Species 2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/215/727/153226D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",G.I. Joe: The Rise Of Cobra
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/577/243/153345D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Alfie
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/153348D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Ages Of Love
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/153495D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Saints And Soldiers: Airborne Creed
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/1005/959/153499D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Brake
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/153503D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",A Christmas Wish
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/1005/959/153504D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Forger
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/951/575/153506D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Absolute Deception
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/192/459/153730D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Sx-Tape
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/358/811/153731D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Moulin Rouge
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/345/407/154139D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",What&apos;s Your Number?
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/154816D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Death At A Funeral
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/919/919/154964D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Choke
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/154968D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Just Friends
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/536/83/155208D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Dogfather
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/922/843/155216D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Airheads
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/155250D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Tekken: Kazuya&apos;s Revenge
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/769/863/155622D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Josie And The Pussycats
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/215/227/156323D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Stormbreaker
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/156474D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Windtalkers
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/418/311/157418D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Win A Date With Tad Hamilton
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/171/426/157420D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Where&apos;s Marlowe?
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/282/207/157424D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Tom Sawyer
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/826/707/157439D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Coach Carter
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/157934D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Cutting Edge: Chasing The Dream
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/175/851/158248D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",A Dog&apos;s Breakfast
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/1018/635/158249D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",House Arrest
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/215/227/158302D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Southern Belles
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/920/895/158305D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Thelma And Louise
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/956/986/158309D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",16 Blocks
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/11/179/158695D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Agent Cody Banks
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/158698D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Beauty Shop
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/215/727/158717D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Big
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/158719D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Bigger Than The Sky
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/744/315/158720D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Boys Don&apos;t Cry
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/242/891/158725D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Broken Arrow
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/395/506/158726D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Election
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/158735D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Adore
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/623/615/159287D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Camille Rewinds
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/683/951/159300D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Kick
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/207/266/159377D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Chilly Christmas
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/55/894/159529D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Love And Honor
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/398/206/159530D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Hours
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/649/323/159554D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Longest Week
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/576/531/159559D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Now Is Good
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/1159566D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Little White Lies
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/159574D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Resistance
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/217/855/159594D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Iceman
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/159597D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Lookout
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/300/471/159609D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Stolen
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/159690D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",So Undercover
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/398/206/159691D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",La Ligne Droite
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/159710D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Silent House
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/369/42/159712D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Chef
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/159713D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Intouchables
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/159714D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Silent Hill 2: Revelation 3d
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/159715D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Cloud Atlas
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/159736D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Odd Thomas
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/855/991/159744D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",7500
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/325/375/159746D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Railway Man
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/362/951/159748D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Paradise
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/504/171/159749D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Assault
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/369/42/159752D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Dark Skies
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/113/923/159757D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Oculus
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/750/347/159762D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Clearing
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/217/678/159811D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Alien 3
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/159857D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Chained
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/398/207/160122D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",City Of Your Final Destination
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/217/678/160126D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Cup
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/328/375/160129D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Goon
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/160130D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Assassin&apos;s Bullet
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/160133D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Liberal Arts
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/160134D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Freeloaders
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/750/583/160136D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Ingenious
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/160137D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Sisters & Brothers
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/680/35/160138D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Nobody Walks
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/831/911/160139D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Welcome To The Jungle
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/612/775/160140D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Freerunner
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/230/847/160141D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Iron Sky
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/680/35/160142D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",A Common Man
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/191/255/160145D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Sapphires
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/160146D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Mud
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/683/951/160149D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Kill Your Darlings
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/160/507/160150D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Pool Boys
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/1023/618/160151D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Night Train To Lisbon
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/355/67/160152D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Very Good Girls
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/278/583/160153D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Zero Dark Thirty
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/160155D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Ass Backwards
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/697/823/160156D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Lovelace
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/683/951/160158D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Jobs
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/649/323/160159D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Redemption
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/160/507/160161D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Dead Man Down
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/755/727/160164D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Immigrant
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/514/675/160166D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",2 Guns
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/683/951/160168D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Barbershop 2: Back In Business
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/253/243/160576D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Poseidon Adventure
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/160781D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",No Country For Old Men
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/161081D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Drumline 2: A New Beat
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/245/687/161407D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Jingle All The Way 2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/542/563/161411D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",All About Steve
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/161844D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Illusionist
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/378/547/161851D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Speed
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/163586D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Valkyrie
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/648/739/164187D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Battle Of Britain
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/305/503/16456D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Tooth Fairy
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/164609D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Date Night
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/700/387/164613D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Madagascar: Escape 2 Africa
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/164659D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Kung Fu Panda
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/164669D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Iron Man
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/164747D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Eye For An Eye
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/651/275/164748D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Great Ghost Rescue
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/217/679/164834D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",I Love You, Beth Cooper
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/164933D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",F6: Twister
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/830/935/165514D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Destruction: Las Vegas
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/732/831/165518D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",La NiÃƒÂ±a De Tus Ojos
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/482/811/165910D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Blood & Chocolate
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/676/23/167244D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Hannah Arendt
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/167523D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Wadjda
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/324/399/167524D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Oldboy
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/520/207/167647D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Last Vegas
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/832/75/167648D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Best Man Holiday
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/60/799/168352D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Peter And Vandy
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/279/703/168953D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",I Could Never Be Your Woman
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/168962D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Flying Scotsman
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/323/851/169015D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Drunk Wedding
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/968/203/169520D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Drop
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/783/327/170377D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Black Nativity
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/986/431/170379D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",An All Dogs Christmas Carol
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/8/834/170659D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Bio-Dome
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/170744D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Hurt Locker
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/171241D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Larger Than Life
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/171402D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",My Man Godfrey
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/514/675/171423D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Bill & Ted&apos;s Bogus Journey
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/750/151/172201D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Planet Of The Apes
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/797/511/172897D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Extreme Adventures Of Super Dave
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/174023D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Saw
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/454/418/174310D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Gung Ho
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/160/255/174812D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Metro
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/775/623/175209D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Warriors
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/855/207/175455D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Dear Secret Santa
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/160/255/175913D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Summoned
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/595/506/175914D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Unstable
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/526/91/175915D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Lars And The Real Girl
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/261/635/175933D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Gang Related
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/920/395/175934D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Flawless
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/920/395/175938D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Dirty Work
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/920/395/175939D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Fluke
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/702/851/176242D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",I Did It Again
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/515/151/176444D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Angelique
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/161/482/176445D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Dream Kids
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/941/667/176446D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Deep
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/102/43/176739D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Sleepless Night
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/755/727/176741D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Hobbit: The Battle Of The Five Armies
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/184/35/177075D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Kill The Messenger
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/931/522/177076D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Playing It Cool
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/430/739/177077D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Signal
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/184/35/177079D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Walesa: Man Of Hope
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/683/951/177235D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Belle
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/576/31/177481D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Another Me
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/714/491/177482D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Birdman
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/532/711/177483D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Let&apos;s Be Cops
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/532/711/177485D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Gone Girl
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/931/522/177486D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Wild
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/242/150/177487D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Exodus: Gods And Kings
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/784/803/177489D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Kingsman: The Secret Service
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/242/150/177496D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Book Of Life
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/931/522/177513D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Night At The Museum: Secret Of The Tomb
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/532/711/177514D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Tuxedo
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/430/739/177603D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Unfaithful
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/724/131/178000D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Palo Alto
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/978/223/178907D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Right Kind Of Wrong
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/296/382/178924D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Ip Man: The Final Fight
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/102/43/178929D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Gold
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/487/135/178933D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Angels Sing
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/210/139/179029D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Area 51
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/967/727/179030D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Transformers: Age Of Extinction
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/883/659/179031D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Dakota&apos;s Summer
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/883/659/179652D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",App
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/679/351/180725D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Knight Rusty
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/3/731/182960D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Cutting Edge: Going For The Gold
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/583/531/183334D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",I Hate Valentine&apos;s Day
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/552/103/184688D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",L&apos;arbitro
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/872/575/185515D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Hackers
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/492/227/185719D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",A Walk To Remember
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/677/646/186174D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Bad Ass 2: Bad Asses
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/699/815/187324D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Material Girls
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/684/927/187965D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Once Upon A Time In The West
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/869/739/189196D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Imagine That
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/443/231/189676D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Robocop
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/952/51/189814D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Valiant
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/443/231/190167D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Alibi
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/602/855/190169D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Step Up
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/953/259/190170D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Arthur And The Minimoys
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/930/727/190173D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",In The Valley Of Elah
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/771/315/190174D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",P.S. I Love You
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/1/659/190176D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",P2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/503/695/190177D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",We&apos;ll Never Have Paris
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/229/203/190278D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Yours, Mine And Ours
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/811/979/190562D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Culpepper Cattle Co.
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/960/811/190990D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Death Hunt
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/230/527/190993D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Seven-Ups
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/230/527/190996D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Calvary
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/839/259/191862D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Humshakals
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/427/763/191863D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",I Origins
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/536/91/191877D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Bullett Raja
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/724/927/191878D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Taken 3
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/241/175/191879D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Northpole
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/232/955/191902D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Marine 4: Moving Target
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/214/367/191905D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Teenage Mutant Ninja Turtles
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/183/559/191947D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Ivory Tower
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/56/251/191948D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Gambler
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/537/187/191953D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Men, Women & Children
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/930/47/191954D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Project Almanac
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/784/303/191955D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Spongebob Movie: Sponge Out Of Water
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/241/715/191956D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",If I Stay
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/780/879/192050D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",22 Jump Street
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/246/331/192053D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Hot Tub Time Machine 2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/784/303/192054D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Town That Dreaded Sundown
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/728/267/192056D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Fort Tilden
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/31/207/192062D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Balls Out
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/839/759/192064D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Boston Strangler
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/433/167/192357D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Undefeated
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/956/147/192358D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Michael Clayton
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/602/355/192439D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Bopha!
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/977/491/192668D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Education Of Little Tree
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/192/275/192669D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Lady Jane
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/505/147/192731D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Regarding Henry
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/493/107/192738D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Divergent
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/884/634/193033D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Non-Stop
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/884/634/193034D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Nurse 3d
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/518/255/193035D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",I Spit On Your Grave 2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/518/255/193037D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Tsotsi
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/96/694/193170D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Family Stone
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/951/807/193378D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Evidence
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/938/719/194450D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Trials Of Cate McCall
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/772/790/194451D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Legally Blonde 2: Red White And Blonde
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/251/291/195156D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Into The Blue
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/515/651/195239D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Nashville
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/280/679/195849D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Number One With A Bullet
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/324/979/195850D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Shadowhunter
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/520/398/195852D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",White Dog
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/855/207/195859D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Merchant Of Venice
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/903/479/196231D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Punisher
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/414/599/198006D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Hostage
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/191/483/198252D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Dawn Of The Planet Of The Apes
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/654/178/198266D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Siege
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/218/607/198275D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",In Her Shoes
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/344/431/198411D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Top Five
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/539/639/198833D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Fever Pitch
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/730/723/199098D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Just For Kicks
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/29/495/199361D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Joy Ride
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/180/791/199802D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Chasing Papi
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/505/350/199806D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Notes On A Scandal
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/977/491/199809D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Bangkok Dangerous
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/423/895/200339D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Laggies
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/264/406/200357D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Truth About Emmanuel
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/505/350/200360D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Mindscape
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/505/350/200361D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Dance Flick
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/85/262/200807D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Ice Age: The Meltdown
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/505/350/200808D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Angus, Thongs And Full-Frontal Snogging
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/269/886/201078D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Up In The Air
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/826/99/201082D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Garden State
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/723/315/201307D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Pink Panther 2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/630/495/201322D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Never Die Alone
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/975/539/201677D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",John Tucker Must Die
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/975/539/201777D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Dude, Where&apos;s My Car?
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/994/683/201852D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Comebacks
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/870/671/201909D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Bandidas
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/550/523/201910D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Bad Asses On The Bayou
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/706/819/202120D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Aquamarine
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/31/587/202537D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Category 5
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/814/263/202590D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",All About Christmas Eve
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/241/675/202596D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Holiday Tree
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/232/455/202597D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Ghost And The Darkness
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/237/627/202977D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Legally Blondes
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/630/495/203334D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Ghost
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/536/91/203341D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Tropic Thunder
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/297/555/203494D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Maze Runner
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/148/587/203541D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Stuart Little
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/505/147/203593D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",American Dragons
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/428/739/203797D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Replacement Killers
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/771/971/203801D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Slumdog Millionaire
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/631/471/204379D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",3 Days To Kill
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/784/303/204527D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Shaft
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/903/979/204642D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Chop Shop
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/428/739/204814D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",X-Men: The Last Stand
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/847/907/205036D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",88 Minutes
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/538/663/205150D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Toy Soldiers
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/912/267/205583D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Space Chimps
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/281/154/205795D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Little Miss Sunshine
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/729/742/206001D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Fx II
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/665/583/206011D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Boris And Natasha: The Movie
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/327/407/206015D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Robot Jox
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/402/819/206017D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Never Back Down
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/218/491/206018D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",A Fistful Of Dynamite
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/359/435/206047D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Lawman
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/987/407/206048D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Vikings
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/845/119/206049D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Horse Soldiers
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/306/478/206050D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Mechanic
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/359/435/206051D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Support Your Local Sheriff!
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/359/435/206053D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Nine Lives Of Christmas
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/234/407/206315D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Christmas Mix
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/234/407/206316D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Another Christmas Kiss
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/706/819/206317D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",My Santa
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/241/175/206318D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",A Fairytale Christmas
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/708/270/206322D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Kristin&apos;s Christmas Past
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/234/407/206323D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Happening
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/359/435/206549D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Shopgirl
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/518/255/207039D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Garfield: A Tail Of Two Kitties
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/306/478/207040D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Phat Girlz
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/324/62/207041D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Stepping Out
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/57/727/207347D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Trekkies
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/536/591/207355D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",It&apos;s Complicated
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/780/579/207428D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Wolfman
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/155/262/207431D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Messenger Of Death
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/715/403/207444D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Cutting Edge
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/536/591/208285D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Forrest Gump
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/251/203/208318D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Italian Job
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/520/398/208345D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Rocky
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/85/262/208648D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Rocky 2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/539/139/208649D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Head Of State
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/941/755/208820D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Ambushed (Hard Rush)
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/967/727/209209D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",La Belle Et La Bete
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/305/615/209210D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Default
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/967/727/209213D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Eliza Graves (Stonehearst Asylum)
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/1022/39/209215D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Ten Little Indians
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/504/231/209216D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Misfire
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/967/727/209222D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Robosapien: Rebooted
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/242/191/209223D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Vive La France
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/68/791/209232D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Me And You (Lo E Te)
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/469/843/209240D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Paris Countdown
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/428/739/209273D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Miracle On 34th Street
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/246/163/209346D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Anchorman: The Legend Of Ron Burgundy
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/454/714/209360D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Blue Chips
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/667/35/209361D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Death Wish 3
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/1022/39/209362D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Firm
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/101/206/209363D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Over The Top
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/667/35/209364D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Stepford Wives
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/469/843/209371D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Rocky 3
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/68/791/209661D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Heart Of Dixie
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/429/715/210210D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Pieces Of April
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/705/343/210320D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Supernova
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/472/371/210323D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Book Of Days
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/240/699/210336D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Hendrix
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/429/715/210456D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Mandela
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/612/86/210653D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Driving Me Crazy
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/466/675/210654D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Blue Sky
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/921/526/210655D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Canadian Bacon
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/967/727/210656D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",De-Lovely
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/491/751/210657D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Another Pretty Face
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/773/939/210743D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Saving Westbrook High
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/240/699/211085D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",My Dad&apos;s A Soccer Mom
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/240/699/211087D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Meet My Valentine
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/240/699/211088D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Beautiful Beast
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/30/731/211097D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Night At The Museum
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/612/86/211355D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Devil Wears Prada
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/246/163/211357D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Thank You For Smoking
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/281/563/211741D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Larry The Cable Guy: Health Inspector
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/793/507/211948D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Trees Lounge
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/876/523/211951D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Ricochet
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/323/587/211958D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Grudge
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/323/587/211960D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Bitter Moon
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/323/587/211964D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Substitute
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/943/206/211968D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Fred 3: Camp Fred
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/793/507/211970D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Score: A Hockey Musical
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/103/359/211986D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Silent Witness
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/1022/39/211994D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Sister&apos;s Keeper
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/833/490/211995D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Hide
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/182/243/211996D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Cube Zero
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/323/587/212028D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Boyfriend School (don&apos;t Tell Her It&apos;s Me)
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/155/262/212058D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Catch Me If You Can
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/323/587/212087D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Silence Of The Lambs
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/323/587/212096D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Hot Rock
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/956/147/212361D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Leprechaun Origins
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/182/243/212379D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",See No Evil 2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/182/243/212380D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Date And Switch
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/521/219/212381D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Single Moms Club
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/182/243/212383D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",A Madea Christmas
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/520/207/212386D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Breathe In
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/520/207/212403D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Draft Day
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/520/207/212404D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Secrets Of The Code
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/934/43/212675D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Hitman
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/214/367/212936D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Just Like Heaven
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/324/979/213374D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Grease
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/231/3/213773D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Love Guru
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/564/435/213774D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",City Of Ember
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/876/523/213845D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",How To Steal A Million
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/433/667/214794D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",The Seven Year Itch
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/154/287/215277D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",French Connection 2
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/154/287/215278D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Eragon
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/324/979/215716D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Tora! Tora! Tora!
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/589/11/216937D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Eagle Eye
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/645/286/216996D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Wall Street
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/347/167/217002D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Christmas Carol: The Movie
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/69523D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Saved
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/69928D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null= 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/isoCvBt.jpg" group-title="PREMIER IPTV DOB",Rumpelstiltskin
+http://moviecity-i.akamaihd.net/i/LongForm/MP4/505/350/96795D_,0200,0400,0800,1200,2500,_MP4_BBSVOD.mp4.csmil/index_4_av.m3u8?null=
